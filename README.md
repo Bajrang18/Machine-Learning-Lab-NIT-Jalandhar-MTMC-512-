@@ -120,7 +120,3 @@ The assignments gradually progress from **numerical computing and data preproces
 - **Pandas**
 - **Matplotlib / Seaborn** (where required)
 - **Scikit-learn**
-
----
-
-## Repository Organization
